@@ -1,0 +1,6 @@
+{
+  "name": "Inclusão e Tecnologia",
+  "description": "Uma plataforma minimalista de inclusão digital com guias rápidos de informática para o 7° Semestre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
